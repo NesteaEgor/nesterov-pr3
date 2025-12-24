@@ -17,4 +17,5 @@
 Подробнее о Kanban: https://zapier.com/blog/best-kanban-apps/
 
 
-← [На главную](/nesterov-pr3/)
+← [На главную](/)
+
