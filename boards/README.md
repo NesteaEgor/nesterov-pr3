@@ -11,5 +11,5 @@
 - перемещать карточки между списками (drag-and-drop)
 
  
- ← [На главную](#/)
+ ← [На главную](https://nesteaegor.github.io/nesterov-pr3/)
 
