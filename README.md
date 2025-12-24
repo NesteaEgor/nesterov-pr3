@@ -16,7 +16,7 @@
 [![Открыть сайт](/assets/logo.png)](https://github.com)
 
 ## Изображение-ссылка (раздел "Доски")
-[![Раздел "списки"](/assets/boards.png)](#/boards/)
+[![Раздел "списки"](/assets/boards.png)](/boards/)
 
 ## Ссылка https://github.com в тексте
 [Перейти](https://github.com)
