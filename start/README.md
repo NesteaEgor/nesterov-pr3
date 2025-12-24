@@ -15,3 +15,6 @@
 
 ## Ссылка про kanban
 Подробнее о Kanban: https://zapier.com/blog/best-kanban-apps/
+
+
+← [На главную](#/)
