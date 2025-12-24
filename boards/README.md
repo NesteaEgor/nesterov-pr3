@@ -2,7 +2,7 @@
 
 Доска является проектом. Списки - этапы работы (например: «To do», «In progress», «Done»).
 
-![Пример доски](https://nesteaegor.github.io/nesterov-pr3/assets/board.png)
+![Пример доски](https://nesteaegor.github.io/nesterov-pr3/assets/boards.png)
 
 ## Типовые действия
 - создать доску
